@@ -11,8 +11,8 @@ To install plugins you need RoSync V2.0.0 or higher, You can [Download the lates
 API Docs will be available soon.
 
 # Development
-To start building RoSync plugins you will need to [Download the latest version of this repository](https://github.com/rosyncrbx/plugins/archive/refs/heads/main.zip) [Tutorials are available here](https://rosyncrbx.github.io/docs/plugins)
+To start building RoSync plugins you will need to [Download the latest version of this repository](https://github.com/rosyncrbx/plugins/archive/refs/heads/main.zip) to help you create your RoSync plugin there are [Tutorials available here](https://rosyncrbx.github.io/docs/plugins)
 
 # What is the plugin repository and How do I add my plugin to the plugin repository?
 The plugin repository lets users install your plugin using a name like: html2lua
-To add your plugin to the plugin repository [Create an issue](https://github.com/rosyncrbx/pluginsrepo/issues/new) with your plugin name and in the description add the url to your plugin. We don't usually update the repository that often so please be pattient.
+To add your plugin to the plugin repository [Create an issue](https://github.com/rosyncrbx/pluginsrepo/issues/new) with your plugin name and in the description add the url to your plugin. We don't usually update the repository that often so please be patient.
